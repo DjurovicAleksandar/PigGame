@@ -1,2 +1,2 @@
 # PigGame
-Project I done within JavaScript course by Jonas Schmedtmann, Udemy.
+Second project I've done within JavaScript course by Jonas Schmedtmann, Udemy
